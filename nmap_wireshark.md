@@ -23,9 +23,11 @@ ip a | grep inet
 ```
 
 Kali:
+
 <img width="815" height="87" alt="image" src="https://github.com/user-attachments/assets/bb94069c-1c20-4390-99c3-64c937230c19" />
 
 Ubuntu:
+
 <img width="816" height="48" alt="image" src="https://github.com/user-attachments/assets/f1c068b0-5a40-4e96-84db-5803c353a6e8" />
 
 ---
